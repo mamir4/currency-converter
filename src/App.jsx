@@ -31,7 +31,7 @@ const convert= () => {
         <div
             className="relative w-full h-screen bg-cover bg-no-repeat flex justify-center items-center"
             style={{
-                backgroundImage: `url('https://images.pexels.com/photos/1602726/pexels-photo-1602726.jpeg')`,
+                backgroundImage: `url('https://www.creativefabrica.com/wp-content/uploads/2023/02/10/Cute-cat-with-a-lot-of-money-Graphics-60651266-1.jpg')`,
             }}
         >
           <div className="absolute inset-0 bg-gradient-to-b from-black/40 to-white/20 z-0" />
